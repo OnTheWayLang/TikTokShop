@@ -80,7 +80,7 @@
     "vite-plugin-vue-setup-extend": "^0.4.0",
     "vue": "^3.2.41",
     "vue-clipboard3": "^2.0.0",
-    "vue-i18n": "^9.2.2",
+    "vue-i18n": "^9.14.3",
     "vue-pdf-embed": "^1.1.6",
     "vue-picture-cropper": "^0.6.1",
     "vue-router": "^4.1.6",
